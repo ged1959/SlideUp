@@ -637,3 +637,11 @@ class: text-center
 [Documentation](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases)
 
 <PoweredBySlidev mt-10 />
+
+---
+
+# 追加です。
+
+## 上手くいくかどうか。実験。
+
+![おばQ](https://assets.st-note.com/production/uploads/images/132894359/rectangle_large_type_2_43607cf00a33325991f25c297e5e87ea.jpeg?width=4000&height=4000&fit=bounds&format=jpg&quality=90)
